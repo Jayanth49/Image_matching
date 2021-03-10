@@ -1,0 +1,2 @@
+https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5
+https://towardsdatascience.com/recommending-similar-images-using-pytorch-da019282770c
